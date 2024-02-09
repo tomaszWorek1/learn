@@ -2,4 +2,5 @@ first message
 this was written in branch1
 this is written after branching branch1 and committed to main
 This is written after pull request has been accepted and branch 1 was merged to main 
+this is written in branch 2
 this comment was written after the creation of the branch2 
